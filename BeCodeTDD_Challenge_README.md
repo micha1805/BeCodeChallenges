@@ -70,6 +70,7 @@ Build it using the TDD way
 
 - Models : existence, creation, fields etc.
 - API : endpoints existence, working fine etc.
+- You can test the Frontend too
 - etc.
 
 Document yourself on how to properly test your app in your framework, then implement it.
