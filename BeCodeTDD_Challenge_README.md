@@ -158,7 +158,7 @@ https://codingdojo.org/kata/
 
 Search for "TDD katas" and you will find a lot of exercices. For yor information a kata for a developer is a coding exercice.
 
-Of course don't forget that Google and Wikipedia are your friends, and as developers StackOverflow is your almighty god.
+Of course don't forget that Google and Wikipedia are your friends, and as developers StackOverflow is our almighty god.
 
 ## A final note of encouragement
 
