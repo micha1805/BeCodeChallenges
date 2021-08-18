@@ -73,7 +73,7 @@ Build it using the TDD way
 - You can test the Frontend too
 - etc.
 
-Document yourself on how to properly test your app in your framework, then implement it.
+Document yourself on how to properly test your app in your framework, then implement some testing features.
 
 
 
