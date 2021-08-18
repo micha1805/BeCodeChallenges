@@ -116,10 +116,12 @@ Pay attention to really think in term of TDD, think test first. What tests shoul
 |----------------|---------------------------------------------------------------------------------------|--------|
 | 1. Is complete | The student has realized all must-have features and nice to have features.            |        |
 |                | The workflow of TDD is respected                                                      |        |
+|                | The student can use Unit testing                                                      |        |
 |                | The repo is clean                                                                     |        |
 |                | The readme is clean                                                                   |        |
 | 2. Is Correct  | The student has realized the first two must-have features                             |        |
 |                | The workflow of TDD is respected                                                      |        |
+|                | The student can use Unit testing                                                      |        |
 |                | The repo is clean                                                                     |        |
 |                | The readme is clean                                                                   |        |
 
@@ -156,6 +158,7 @@ https://codingdojo.org/kata/
 
 Search for "TDD katas" and you will find a lot of exercices. For yor information a kata for a developer is a coding exercice.
 
+Of course don't forget that Google and Wikipedia are your friends, and as developers StackOverflows is your almighty god.
 
 ## A final note of encouragement
 
