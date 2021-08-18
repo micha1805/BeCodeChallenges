@@ -66,7 +66,7 @@ Build it using the TDD way
 
 ## Day 2
 
-### Things to test in your Webshop framework
+### Examples of things to test in your Webshop framework
 
 - Models : existence, creation, fields etc.
 - API : endpoints existence, working fine etc.
