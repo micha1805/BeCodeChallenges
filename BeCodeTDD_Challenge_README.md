@@ -1,7 +1,3 @@
-IMPORTANT : ne PAS forker ce projet, il contient mes remarques. Copier le md dans un autre repo.
-
-
-
 # Test Driven Development
 
 - Repository: `challenge-TDD`
