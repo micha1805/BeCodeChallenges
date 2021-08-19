@@ -152,6 +152,9 @@ https://thoughtbot.com/upcase/testing
 Nice introductory videos (in ruby) :
 https://thoughtbot.com/upcase/fundamentals-of-tdd
 
+Another nice introductory video (in python) :
+https://youtu.be/B1j6k2j2eJg
+
 A list of TDD exercices if you want to practice (solution is in Java)
 http://www.tddbuddy.com/
 
