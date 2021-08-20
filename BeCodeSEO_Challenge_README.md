@@ -28,9 +28,8 @@ Here are some suggested free tools.
 - Google Ligthouse is a free tool for Chrome, you can use it as an extension or direcly in your devtools. It gives you a report of your website <br/> https://developers.google.com/web/tools/lighthouse
 - SEO Minion is a free and simple Chrome extension that shows you directly what search engines see
 https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi
-- Ubersuggest is a free tool (there is a premium version with more features) from Neil Patel, a big name in SEO, it gives you a report and suggestions to improve your website, there is also a Chrome extension if you want <br/>https://neilpatel.com/ubersuggest/
-- Semrush is also an interesting tool but the free version only allows you a few requests per day, but here it is if you want to try
-https://www.semrush.com
+- Ubersuggest is a free tool (the paid version offers more features) from Neil Patel, a big name in SEO, it gives you a report and suggestions to improve your website, there is also a Chrome extension if you want <br/>https://neilpatel.com/ubersuggest/
+- Semrush is also an interesting tool (a few requests per day only for the free version), it is kind of similar to Ubersuggest <br/>https://www.semrush.com
 
 
 ## Learning Objectives
