@@ -2,7 +2,7 @@
 
 - Repository: `challenge-SEO`
 - Type of Challenge: `Learning`
-- Duration: `2 days` (1 day?)
+- Duration: `2 days`
 - Deadline: `dd/mm/yy H:i AM/PM`
 - Deployment strategy :
 	- Github page
@@ -13,10 +13,11 @@
 
 In this small challenge you will learn the basics of SEO, Seach Engine Optimization. SEO consists in optimizing the content of your webpages such that their ranking in search engines is the best possible.
 
-The challenge will be structured the following:
-- day 1: Document yourself on SEO. In the afternoon make a single online webpage with content of your choice, and with free tools try to see what search engines see when they read your page. After that try Google Lightouse to analyse your webpage.
-- day 2: Optimize the content of your single webpage. Analyse it with SEO tools of your choice. Discover Google Search Console and Google analytics and use it on your webpage.
+To be good at SEO you need to understand how it works and how to check the quality of your work, for the latter there are a lot of tools available.
 
+The challenge will be structured the following:
+- day 1: The morning will be dedicated to documentation on the subject, read everything, find tutos etc. In the afternoon you'll be asked to make a single online webpage with content of your choice (a blog page, an article, a fake e-commerce product, whatever, it just needs to have some clear content), then with free tools analyse what search engines see when they read your page. At least try Google Lightouse to analyse your webpage.
+- day 2: Optimize the content of your single webpage. Analyse it with SEO tools of your choice. Discover Google Search Console and Google analytics and use it on your webpage.
 
 ## SEO tools
 
@@ -28,9 +29,28 @@ Here are some suggested free tools.
 - Google Ligthouse is a free tool for Chrome, you can use it as an extension or direcly in your devtools. It gives you a report of your website <br/> https://developers.google.com/web/tools/lighthouse
 - SEO Minion is a free and simple Chrome extension that shows you directly what search engines see
 https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi
-- Ubersuggest is a free tool (the paid version offers more features) from Neil Patel, a big name in SEO, it gives you a report and suggestions to improve your website, there is also a Chrome extension if you want <br/>https://neilpatel.com/ubersuggest/
+- Ubersuggest is a free tool (the paid version offers more features) from Neil Patel (a SEO guru) it gives you a report and suggestions to improve your website, there is also a Chrome extension if you want <br/>https://neilpatel.com/ubersuggest/
 - Semrush is also an interesting tool (a few requests per day only for the free version), it is kind of similar to Ubersuggest <br/>https://www.semrush.com
 
+
+## SEO Resources
+
+Here are some articles for beginners from reliable sources. These are basic suggestions, if you want to begin with video tutorials, that's fine, but be careful to find reliable sources.
+
+
+Official documentation of Google
+<br>https://developers.google.com/search/docs/beginner/get-started
+
+Beginner's guide from Semrush (dec. 2020)
+<br>https://www.semrush.com/blog/what-is-seo/
+
+Beginner's guide from Neil Patel, SEO guru (2021)
+<br>https://neilpatel.com/what-is-seo/
+
+
+## Important notice
+
+As SEO is very slow, even if you did an amazing job you won't be able to see your content in the first page of Google at the end of these 2 days. But if you wait and made it, it should stay there for a long time, that's the beauty of SEO. It's slow but it's free and it stays there for long.
 
 ## Learning Objectives
 
