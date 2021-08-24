@@ -71,7 +71,7 @@ As SEO is very slow, even if you did an amazing job you won't be able to see you
 ### Nice-to-have features
 
 - To be able to to use data snippets based on https://schema.org
-- To be able to use a javascript framework in a SEO oriented way (cf routing, inheritance, dynamic headers, componants, state/props etc.)
+- To be able to use a javascript framework in a SEO oriented way (cf routing, inheritance, dynamic headers, components, state/props etc.)
 
 
 
