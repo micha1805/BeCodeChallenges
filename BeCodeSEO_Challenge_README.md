@@ -16,8 +16,8 @@ In this small challenge you will learn the basics of SEO, Seach Engine Optimizat
 To be good at SEO you need to understand how it works and how to check the quality of your work, for the latter there are a lot of tools available.
 
 The challenge will be structured the following:
-- day 1: The morning will be dedicated to documentation on the subject, read everything, find tutos etc. In the afternoon you'll be asked to make a single online webpage with content of your choice (a blog page, an article, a fake e-commerce product, whatever, it just needs to have some clear content), then with free tools analyse what search engines see when they read your page. At least try Google Lightouse to analyse your webpage.
-- day 2: Optimize the content of your single webpage, focus at least on headings and title. Analyse it with SEO tools of your choice. Discover Google Search Console and Google analytics and use it on your webpage. If you have time, look for informations about the proper way to use JavaScript frameworks in a SEO oriented way.
+- day 1: The morning will be dedicated to documentation on the subject, read everything, find tutos etc. In the afternoon you'll be asked to make a single online webpage with content of your choice (a blog page, an article, a fake e-commerce product, whatever, it just needs to have some clear content), then with free tools analyse what search engines see when they read your page. At least try Google Lightouse to analyse your webpage. Do not forget to test these tools on any website you want (especially big brands), you'll get familiarized with the tools and what actual companies do with their SEO.
+- day 2: Optimize the content of your single webpage, focus at least on headings and title. Analyse it with SEO tools of your choice. Discover Google Search Console and Google analytics and use it on your webpage. As nice to haves, you could look for informations about the proper way to use JavaScript frameworks in a SEO oriented way, and also check data snippets of https://schema.org
 
 ## SEO tools
 
@@ -36,6 +36,7 @@ https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohab
 ## SEO Resources
 
 ### Beginners
+
 Here are some articles for beginners from reliable sources.
 
 Official documentation of Google
@@ -47,10 +48,13 @@ Beginner's guide from Semrush (dec. 2020)
 Beginner's guide from Neil Patel, SEO guru (2021)
 <br>https://neilpatel.com/what-is-seo/
 
+
+
 ### JavaScript and SEO
 
-JavaScript and SEO
-<br>
+This guy was the first link from the google request "javascript framework seo", so by definition he knows what he's talking about :
+<br>https://moz.com/blog/javascript-seo-guide
+
 
 ## Important notice
 
