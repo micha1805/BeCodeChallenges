@@ -35,8 +35,7 @@ https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohab
 
 ## SEO Resources
 
-Here are some articles for beginners from reliable sources. These are basic suggestions, if you want to begin with video tutorials, that's fine, but be careful to find reliable sources.
-
+Here are some articles for beginners from reliable sources.
 
 Official documentation of Google
 <br>https://developers.google.com/search/docs/beginner/get-started
