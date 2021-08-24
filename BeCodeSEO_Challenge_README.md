@@ -17,7 +17,7 @@ To be good at SEO you need to understand how it works and how to check the quali
 
 The challenge will be structured the following:
 - day 1: The morning will be dedicated to documentation on the subject, read everything, find tutos etc. In the afternoon you'll be asked to make a single online webpage with content of your choice (a blog page, an article, a fake e-commerce product, whatever, it just needs to have some clear content), then with free tools analyse what search engines see when they read your page. At least try Google Lightouse to analyse your webpage.
-- day 2: Optimize the content of your single webpage. Analyse it with SEO tools of your choice. Discover Google Search Console and Google analytics and use it on your webpage.
+- day 2: Optimize the content of your single webpage, focus at least on headings and title. Analyse it with SEO tools of your choice. Discover Google Search Console and Google analytics and use it on your webpage. If you have time, look for informations about the proper way to use JavaScript frameworks in a SEO oriented way.
 
 ## SEO tools
 
@@ -35,6 +35,7 @@ https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohab
 
 ## SEO Resources
 
+### Beginners
 Here are some articles for beginners from reliable sources.
 
 Official documentation of Google
@@ -46,16 +47,20 @@ Beginner's guide from Semrush (dec. 2020)
 Beginner's guide from Neil Patel, SEO guru (2021)
 <br>https://neilpatel.com/what-is-seo/
 
+### JavaScript and SEO
+
+JavaScript and SEO
+<br>
 
 ## Important notice
 
-As SEO is very slow, even if you did an amazing job you won't be able to see your content in the first page of Google at the end of these 2 days. But if you wait and made it, it should stay there for a long time, that's the beauty of SEO. It's slow but it's free and it stays there for long.
+As SEO is very slow, even if you did an amazing job you won't be able to see your content in the first page of Google at the end of these 2 days. But if you wait and actually made it, it should stay there for a long time, that's the beauty of SEO. It's slow but it's free and it stays there for long.
 
 ## Learning Objectives
 
 ### Must-have features
 
-- To be able to implement SEO best practices (title and headgins at least) in a simple webpage by understanding how search engines work
+- To be able to implement SEO best practices (title and headings at least) in a simple webpage by understanding how search engines work
 - To be able to use Lighthouse, Google Search Console and Google Analytics
 
 
