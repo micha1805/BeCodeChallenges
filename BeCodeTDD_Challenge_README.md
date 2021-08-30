@@ -17,11 +17,11 @@ For example if you have to write a module that will give you a price, you know t
 
 The challenge will be structured the following :
 
-- Day 1 (front&back): document yourself on testing and especially TDD, what is it, how it works, what are the principles. In the afternoon try these simple introductory exercises in your language: FizzBuzz (and Leap Years and Roman Numeral if you have time).
+- Day 1: document yourself on testing and especially TDD, what is it, how it works, what are the principles. In the afternoon try these simple introductory exercises in your language: FizzBuzz (and Leap Years and Roman Numeral if you have time).
 
-- Day 2 (back only?): Discover testing in you Webshop framework (cf resources at the bottom). Implement some testing features in your code.
+- Day 2: Discover testing in you Webshop framework (cf resources at the bottom). Implement some testing features in your code.
 
-- Day 3 (back only?): Implement a new feature in your webshop according to the TDD way.
+- Day 3: Implement a new feature in your webshop according to the TDD way.
 
 
 ## Day 1
@@ -64,7 +64,7 @@ Build it using the TDD way
 
 ### Examples of things to test in your Webshop framework
 
-- Models : existence, creation, fields etc.
+- Models : existence, creation, fields, required fields, etc.
 - API : endpoints existence, working fine etc.
 - You can test the Frontend too
 - etc.
@@ -127,8 +127,7 @@ Pay attention to really think in term of TDD, think test first. What tests shoul
 
 ## Resources
 
-Examples : React, Vue, Rails :
-https://learntdd.in/
+### Official documentation
 
 Doc for Symfony:
 https://symfony.com/doc/current/testing.html
@@ -141,6 +140,12 @@ https://docs.djangoproject.com/en/3.2/topics/testing/overview/
 
 Doc for Node Express:
 https://alexanderpaterson.com/posts/how-to-start-unit-testing-your-express-apps
+
+
+### Other resources
+
+Examples in React, Vue, Rails :
+https://learntdd.in/
 
 Nice videos about testing :
 https://thoughtbot.com/upcase/testing
@@ -157,7 +162,9 @@ http://www.tddbuddy.com/
 A list of various katas including some TDD oriented:
 https://codingdojo.org/kata/
 
-Search for "TDD katas" and you will find a lot of exercices. For yor information a kata for a developer is a coding exercice.
+### Varia
+
+Search for "TDD katas" and you will find a lot of exercices. For your information a kata for a developer is a coding exercice.
 
 Of course don't forget that Google and Wikipedia are your friends, and as developers StackOverflow is our almighty god.
 
